@@ -1,0 +1,11 @@
+{
+  "name": "textrp/textrp",
+  "autoload": {
+    "psr-4": {
+      "TextRP\\": "src/"
+    }
+  },
+  "require": {
+    "php": "^8.2"
+  }
+}
